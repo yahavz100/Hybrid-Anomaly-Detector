@@ -1,0 +1,3 @@
+/home/yahav/CLionProjects/HybridAnomalyDetector/Hybrid-Anomaly-Detector/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/yahav/CLionProjects/HybridAnomalyDetector/Hybrid-Anomaly-Detector/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/yahav/CLionProjects/HybridAnomalyDetector/Hybrid-Anomaly-Detector/cmake-build-debug/CMakeFiles/MainTrain.dir

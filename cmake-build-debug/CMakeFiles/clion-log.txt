@@ -1,0 +1,4 @@
+/home/yahav/Programs/clion-2020.3/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/yahav/CLionProjects/HybridAnomalyDetector/Hybrid-Anomaly-Detector
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/yahav/CLionProjects/HybridAnomalyDetector/Hybrid-Anomaly-Detector/cmake-build-debug

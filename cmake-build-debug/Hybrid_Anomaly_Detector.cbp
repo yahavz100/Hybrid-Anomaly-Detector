@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Hybrid_Anomaly_Detector"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/yahav/CLionProjects/HybridAnomalyDetector/Hybrid-Anomaly-Detector/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/yahav/CLionProjects/HybridAnomalyDetector/Hybrid-Anomaly-Detector/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/yahav/CLionProjects/HybridAnomalyDetector/Hybrid-Anomaly-Detector/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/yahav/CLionProjects/HybridAnomalyDetector/Hybrid-Anomaly-Detector/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/yahav/CLionProjects/HybridAnomalyDetector/Hybrid-Anomaly-Detector/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/yahav/CLionProjects/HybridAnomalyDetector/Hybrid-Anomaly-Detector/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/yahav/CLionProjects/HybridAnomalyDetector/Hybrid-Anomaly-Detector/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/yahav/CLionProjects/HybridAnomalyDetector/Hybrid-Anomaly-Detector/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/yahav/CLionProjects/HybridAnomalyDetector/Hybrid-Anomaly-Detector/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/yahav/CLionProjects/HybridAnomalyDetector/Hybrid-Anomaly-Detector/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/yahav/CLionProjects/HybridAnomalyDetector/Hybrid-Anomaly-Detector/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/yahav/CLionProjects/HybridAnomalyDetector/Hybrid-Anomaly-Detector/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/yahav/CLionProjects/HybridAnomalyDetector/Hybrid-Anomaly-Detector/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/yahav/CLionProjects/HybridAnomalyDetector/Hybrid-Anomaly-Detector/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/yahav/CLionProjects/HybridAnomalyDetector/Hybrid-Anomaly-Detector/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="MainTrain">
+				<Option output="/home/yahav/CLionProjects/HybridAnomalyDetector/Hybrid-Anomaly-Detector/cmake-build-debug/MainTrain" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/yahav/CLionProjects/HybridAnomalyDetector/Hybrid-Anomaly-Detector/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/yahav/CLionProjects/HybridAnomalyDetector/Hybrid-Anomaly-Detector/."/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/yahav/CLionProjects/HybridAnomalyDetector/Hybrid-Anomaly-Detector/cmake-build-debug/Makefile&quot;  VERBOSE=1 MainTrain"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/yahav/CLionProjects/HybridAnomalyDetector/Hybrid-Anomaly-Detector/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/yahav/CLionProjects/HybridAnomalyDetector/Hybrid-Anomaly-Detector/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/yahav/CLionProjects/HybridAnomalyDetector/Hybrid-Anomaly-Detector/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="MainTrain/fast">
+				<Option output="/home/yahav/CLionProjects/HybridAnomalyDetector/Hybrid-Anomaly-Detector/cmake-build-debug/MainTrain" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/yahav/CLionProjects/HybridAnomalyDetector/Hybrid-Anomaly-Detector/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/yahav/CLionProjects/HybridAnomalyDetector/Hybrid-Anomaly-Detector/."/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/yahav/CLionProjects/HybridAnomalyDetector/Hybrid-Anomaly-Detector/cmake-build-debug/Makefile&quot;  VERBOSE=1 MainTrain/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/yahav/CLionProjects/HybridAnomalyDetector/Hybrid-Anomaly-Detector/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/yahav/CLionProjects/HybridAnomalyDetector/Hybrid-Anomaly-Detector/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/yahav/CLionProjects/HybridAnomalyDetector/Hybrid-Anomaly-Detector/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/yahav/CLionProjects/HybridAnomalyDetector/Hybrid-Anomaly-Detector/AnomalyDetector.h">
+			<Option target="MainTrain"/>
+		</Unit>
+		<Unit filename="/home/yahav/CLionProjects/HybridAnomalyDetector/Hybrid-Anomaly-Detector/CLI.cpp">
+			<Option target="MainTrain"/>
+		</Unit>
+		<Unit filename="/home/yahav/CLionProjects/HybridAnomalyDetector/Hybrid-Anomaly-Detector/CLI.h">
+			<Option target="MainTrain"/>
+		</Unit>
+		<Unit filename="/home/yahav/CLionProjects/HybridAnomalyDetector/Hybrid-Anomaly-Detector/HybridAnomalyDetector.cpp">
+			<Option target="MainTrain"/>
+		</Unit>
+		<Unit filename="/home/yahav/CLionProjects/HybridAnomalyDetector/Hybrid-Anomaly-Detector/HybridAnomalyDetector.h">
+			<Option target="MainTrain"/>
+		</Unit>
+		<Unit filename="/home/yahav/CLionProjects/HybridAnomalyDetector/Hybrid-Anomaly-Detector/MainTrain.cpp">
+			<Option target="MainTrain"/>
+		</Unit>
+		<Unit filename="/home/yahav/CLionProjects/HybridAnomalyDetector/Hybrid-Anomaly-Detector/Server.cpp">
+			<Option target="MainTrain"/>
+		</Unit>
+		<Unit filename="/home/yahav/CLionProjects/HybridAnomalyDetector/Hybrid-Anomaly-Detector/Server.h">
+			<Option target="MainTrain"/>
+		</Unit>
+		<Unit filename="/home/yahav/CLionProjects/HybridAnomalyDetector/Hybrid-Anomaly-Detector/SimpleAnomalyDetector.cpp">
+			<Option target="MainTrain"/>
+		</Unit>
+		<Unit filename="/home/yahav/CLionProjects/HybridAnomalyDetector/Hybrid-Anomaly-Detector/SimpleAnomalyDetector.h">
+			<Option target="MainTrain"/>
+		</Unit>
+		<Unit filename="/home/yahav/CLionProjects/HybridAnomalyDetector/Hybrid-Anomaly-Detector/anomaly_detection_util.cpp">
+			<Option target="MainTrain"/>
+		</Unit>
+		<Unit filename="/home/yahav/CLionProjects/HybridAnomalyDetector/Hybrid-Anomaly-Detector/anomaly_detection_util.h">
+			<Option target="MainTrain"/>
+		</Unit>
+		<Unit filename="/home/yahav/CLionProjects/HybridAnomalyDetector/Hybrid-Anomaly-Detector/commands.h">
+			<Option target="MainTrain"/>
+		</Unit>
+		<Unit filename="/home/yahav/CLionProjects/HybridAnomalyDetector/Hybrid-Anomaly-Detector/minCircle.cpp">
+			<Option target="MainTrain"/>
+		</Unit>
+		<Unit filename="/home/yahav/CLionProjects/HybridAnomalyDetector/Hybrid-Anomaly-Detector/minCircle.h">
+			<Option target="MainTrain"/>
+		</Unit>
+		<Unit filename="/home/yahav/CLionProjects/HybridAnomalyDetector/Hybrid-Anomaly-Detector/timeseries.cpp">
+			<Option target="MainTrain"/>
+		</Unit>
+		<Unit filename="/home/yahav/CLionProjects/HybridAnomalyDetector/Hybrid-Anomaly-Detector/timeseries.h">
+			<Option target="MainTrain"/>
+		</Unit>
+		<Unit filename="/home/yahav/CLionProjects/HybridAnomalyDetector/Hybrid-Anomaly-Detector/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
